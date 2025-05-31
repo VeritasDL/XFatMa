@@ -1,0 +1,11 @@
+{
+  "hxd_path": "C:\\Program Files\\HxD\\HxD.exe",
+  "preview_bytes": 1024,
+  "carving_step": 2000,
+  "logs_enabled": true,
+  "log_path": "logs",
+  "signatures_path": "signatures.json",
+  "debug": true,
+  "theme_file": "dark.tcl",
+  "de_dupe_dirents": true
+}
